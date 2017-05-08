@@ -1,0 +1,8 @@
+video:
+  youtube:
+    viewers-url-placeholder: '%id%'
+    viewers-url: 'https://www.youtube.com/live_stats?v=%id%'
+
+stream:
+  youtube:
+    viewers-url-placeholder: '%id%'

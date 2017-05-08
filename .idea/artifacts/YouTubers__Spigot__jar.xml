@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="YouTubers [Spigot]:jar">
+    <output-path>$USER_HOME$/Desktop/YouTubers[Spigot]/plugins</output-path>
+    <root id="archive" name="YouTubers [Spigot].jar">
+      <element id="module-output" name="ContentMakers [Spigot]" />
+    </root>
+  </artifact>
+</component>

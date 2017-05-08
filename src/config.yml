@@ -1,0 +1,6 @@
+i:
+  am: cool
+stream:
+  update-packet-timeout: 10
+console:
+  send-packet-data: false
